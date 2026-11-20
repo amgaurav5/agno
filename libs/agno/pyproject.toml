@@ -708,6 +708,7 @@ module = [
   "uvicorn.*",
   "valyu.*",
   "vertexai.*",
+  "viasocket.*",
   "voyageai.*",
   "wavespeed.*",
   "weaviate.*",
